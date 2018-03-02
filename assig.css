@@ -1,0 +1,220 @@
+h1{
+	text-align: center;
+	font-size: 40px;
+	color: white;
+}
+body{
+	background-image: url("blue.jpg");
+	
+}
+.occupation_style input{
+	width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    position: relative;
+    left: 480px;
+    visibility: hidden;
+
+    }
+
+    .occupation_style label{
+    	position: relative;
+	font-size: 25px;
+	font-style: Verdana;
+	left: 300px;
+	width: 50px;
+	color: white;
+	 visibility: hidden;
+    }
+    .country_style label{
+    	position: relative;
+	font-size: 25px;
+	font-style: Verdana;
+	left: 300px;
+	width: 50px;
+	color: white;
+    }
+    .Hobbies_style label{
+    	position: relative;
+	font-size: 25px;
+	font-style: Verdana;
+	left: 300px;
+	width: 50px;
+	color: white;
+	 visibility: hidden;
+    }
+    .Marital_Status label{
+    	position: relative;
+	font-size: 25px;
+	font-style: Verdana;
+	left: 300px;
+	width: 50px;
+	color: white;
+	 visibility: hidden;
+    }
+    .degree_style label{
+    	position: relative;
+	font-size: 25px;
+	font-style: Verdana;
+	left: 300px;
+	width: 50px;
+	color: white;
+	 visibility: hidden;
+    }
+    .work_style label{
+    	position: relative;
+	font-size: 25px;
+	font-style: Verdana;
+	left: 300px;
+	width: 50px;
+	color: white;
+	 visibility: hidden;
+    }
+    .agestyle label{
+    	position: relative;
+	font-size: 25px;
+	font-style: Verdana;
+	left: 300px;
+	width: 50px;
+	color: white;
+	 visibility: hidden;
+    }
+    .next_style label{
+    	position: relative;
+	font-size: 25px;
+	font-style: Verdana;
+	left: 300px;
+	width: 50px;
+	color: white;
+	 visibility: hidden;
+    }
+    .maiden_style label{
+    	position: relative;
+	font-size: 25px;
+	font-style: Verdana;
+	left: 300px;
+	width: 50px;
+	color: white;
+	 visibility: hidden;
+    }
+    .religion_style label{
+    	position: relative;
+	font-size: 25px;
+	font-style: Verdana;
+	left: 300px;
+	width: 50px;
+	color: white;
+	 visibility: hidden;
+    }
+.country_style input{
+	width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    position: relative;
+    left: 460px;
+    }
+    .Hobbies_style input{
+	width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    position: relative;
+    left: 510px;
+     visibility: hidden;
+    }
+    .Marital_Status input{
+	width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    position: relative;
+    left: 450px;
+    visibility: hidden;
+    }
+    .degree_style input{
+	width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    position: relative;
+    left: 520px;
+	 visibility: hidden;
+    }
+    .work_style input{
+	width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    position: relative;
+    left: 330px;
+ 	 visibility: hidden;
+    }
+    
+    .agestyle input{
+	width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    position: relative;
+    left: 550px; 
+	 visibility: hidden;}
+    .religion_style input{
+	width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    position: relative;
+    left: 505px;
+    visibility: hidden;
+    }
+    .next_style input{
+	width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    position: relative;
+    left: 465px;
+     visibility: hidden;
+    }
+    .maiden_style input{
+	width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    position: relative;
+    left: 450px;
+     visibility: hidden;
+    }
+
